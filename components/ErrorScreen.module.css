@@ -1,0 +1,14 @@
+.wrapper {
+  max-width: 480px;
+  text-align: center;
+  height: 40px;
+  font-size: 18px;
+  font-family: "Varela Round", sans-serif;
+  padding: 0 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+.message {
+  margin-bottom: 30px;
+}

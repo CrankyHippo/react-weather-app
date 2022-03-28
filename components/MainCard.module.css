@@ -1,0 +1,21 @@
+.wrapper {
+  text-align: center;
+  color: #ffffff;
+  padding: 30px;
+  background: #00acc1;
+}
+
+.location {
+  font-size: 38px;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.temperature {
+  position: relative;
+  font-size: 50px;
+}

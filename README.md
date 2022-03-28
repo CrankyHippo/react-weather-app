@@ -2,7 +2,7 @@
 
 Check the current weather on any city on the planet. Switch between metric and imperial units.
 
-![Alt img](/public/assets/animated_weather.gif.gif)
+![Alt img](https://github.com/CrankyHippo/react-weather-app/blob/master/public/assets/animated_weather.gif)
 
 ## Features
 
